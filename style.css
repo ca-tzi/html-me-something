@@ -1,3 +1,59 @@
-body {
-    margin: auto;
+p {
+  font-size: large;
+  font-family: 'Roboto', sans-serif;
+  padding:10px;
+  margin:30px 200px 30px 200px;
+  border:3px dotted #F2992E;
+  background-color:#fff;
+  
+}
+
+body{
+  background: peachpuff;
+}
+
+#images {
+  max-width: 50%;
+  height: auto;
+  display: block;
+  padding:10px;
+  margin:30px 200px 30px 200px;
+  border:3px dotted #F2992E;
+  background-color:#fff;
+}
+
+#vertimages {
+  max-width: 20%;
+  height: auto;
+  display: block;
+  padding:10px;
+  margin:30px 200px 30px 200px;
+  border:3px dotted #F2992E;
+  background-color:#fff;
+}
+
+h2 {
+  font-family: 'Work Sans', sans-serif;
+}
+
+h1{
+  font-family: 'Roboto', sans-serif;
+  font-size: 70px;
+  text-align: center;
+}
+
+nav{
+  text-align: center;
+  background-color: #fff;
+  margin: 30px 500px 30px 500px;
+  padding: 10px;
+  border: 3px dotted #F2992E;
+  font-family: 'Roboto', sans-serif;
+  font-size: 30px;
+
+}
+
+footer {
+  text-align: center;
+  font-family: 'Cordoba', sans-serif;
 }
